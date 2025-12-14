@@ -8,7 +8,7 @@ set -euo pipefail
 
 # Global variables
 VERSION="2.3"
-KVM_AVAILABLE=false
+KVM_AVAILABLE=true
 QEMU_CMD=()
 
 # Function to display header
