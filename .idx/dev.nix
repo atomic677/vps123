@@ -14,6 +14,7 @@
     qemu
     apt
     nodejs
+    neofetch 
   ];
 
   env = {
