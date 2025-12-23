@@ -31,7 +31,7 @@
     };
 
     previews = {
-      enable = false;
+      enable = true;
     };
   };
 }
