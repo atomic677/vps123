@@ -12,7 +12,8 @@
     cdrkit
     cloud-utils
     qemu
-    java17
+    jdk17
+
     gradle
   ];
 
