@@ -13,7 +13,7 @@
     cloud-utils
     qemu
     jdk17
-
+    imagemagick
     gradle
   ];
 
