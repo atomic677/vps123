@@ -12,7 +12,8 @@
     cdrkit
     cloud-utils
     qemu
-    
+    java17
+    graddle
   ];
 
   env = {
