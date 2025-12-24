@@ -13,7 +13,7 @@
     cloud-utils
     qemu
     java17
-    graddle
+    gradle
   ];
 
   env = {
