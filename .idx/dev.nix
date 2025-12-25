@@ -20,6 +20,7 @@
     jdk21
     curl
     wget 
+    nodejs
   ];
 
   env = {
