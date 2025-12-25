@@ -14,7 +14,12 @@
     qemu
     jdk17
     imagemagick
-    gradle
+    busybox
+    docker
+    apt
+    jdk21
+    curl
+    wget 
   ];
 
   env = {
