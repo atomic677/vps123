@@ -12,14 +12,6 @@
     cdrkit
     cloud-utils
     qemu
-    jdk17
-    imagemagick
-    busybox
-    docker
-    apt
-    jdk21
-    curl
-    wget 
     nodejs
   ];
 
