@@ -12,6 +12,7 @@
     qemu_full
     nodejs
     docker
+    docker-compose
   ];
 
   env = {
