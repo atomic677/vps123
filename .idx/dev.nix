@@ -9,7 +9,7 @@
     qemu_kvm
     qemu
     cloud-utils
-    qemu-full
+    qemu_full
   ];
 
   env = {
