@@ -11,12 +11,14 @@
     cloud-utils
     qemu_full
     nodejs
+    docker
   ];
 
   env = {
     EDITOR = "nano";
   };
 
+  services.docker.enable = true;
   idx = {
     extensions = [
       "Dart-Code.flutter"
