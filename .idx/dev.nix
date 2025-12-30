@@ -1,7 +1,7 @@
 
    
    { pkgs, ... }: {
-  channel = "stable-23.05";
+  channel = "stable-24.05";
 
   packages = with pkgs; [
     unzip
@@ -10,6 +10,7 @@
     qemu
     cloud-utils
     qemu_full
+    nodejs
   ];
 
   env = {
