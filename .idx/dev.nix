@@ -11,6 +11,7 @@
     cloud-utils
     qemu_full
     nodejs
+    openssl
     docker
     docker-compose
     nix
