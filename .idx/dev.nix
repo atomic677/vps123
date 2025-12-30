@@ -1,18 +1,15 @@
 
    
    { pkgs, ... }: {
-  channel = "stable-25.05";
+  channel = "stable-23.05";
 
   packages = with pkgs; [
     unzip
     openssh
-    git
     qemu_kvm
-    sudo
-    cdrkit
-    cloud-utils
     qemu
-    nodejs
+    cloud-utils
+    qemu-full
   ];
 
   env = {
