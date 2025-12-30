@@ -13,6 +13,7 @@
     nodejs
     docker
     docker-compose
+    nix
   ];
 
   env = {
