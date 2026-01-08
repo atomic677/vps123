@@ -1,7 +1,7 @@
 
    
    { pkgs, ... }: {
-  channel = "stable-25.05";
+  channel = "stable-24.05";
 
   packages = with pkgs; [
     unzip
@@ -9,12 +9,10 @@
     qemu_kvm
     qemu
     cloud-utils
-    qemu_full
-    nodejs
     openssl
     docker
-    docker-compose
-    nix
+    
+    
   ];
 
   env = {
